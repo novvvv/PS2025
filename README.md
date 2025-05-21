@@ -8,5 +8,5 @@ Point - DFS 탐색에서 리프 노드를 어떻게 판별할 것인지 + Root N
 <span style='background-color: #fff5b1'>BOJ4803 트리</span>  Date. 2025.05.14(Wed)
 Point - 그래프 탐색에서 사이클 존재 여부를 어떻게 판별할 것인가.
 <br><br>
-<span style='background-color: #fff5b1'>BOJ20551</span> Date. 2025.05.21(Wed)
+<span style='background-color: #fff5b1'>BOJ20551 Sort 마스터 배지훈의 후계자</span> Date. 2025.05.21(Wed)
 Point - 이분탐색 기초문항
