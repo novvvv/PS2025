@@ -30,3 +30,4 @@ int main() {
 }
 
 // https://twpower.github.io/82-next_permutation-and-prev_permutation
+// https://velog.io/@junhok82/Java%EB%A1%9C-%EC%88%9C%EC%97%B4Permutation-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
