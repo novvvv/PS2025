@@ -28,3 +28,5 @@ int main() {
 
     return 0;
 }
+
+// https://twpower.github.io/82-next_permutation-and-prev_permutation
